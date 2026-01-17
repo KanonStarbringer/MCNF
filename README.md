@@ -201,7 +201,7 @@ This code is provided for educational and research purposes.
 
 ## 👤 Author
 
-Developed as part of a Master's degree in Mathematical Modeling.
+Developed as part of a Doctor's degree in Mathematical Modeling.
 
 ---
 
